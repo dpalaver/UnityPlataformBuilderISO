@@ -12,17 +12,29 @@ TagManager:
   - Decoracion
   - CuadradoGrilla
   - Terreno
+  - Andamio
+  - Final
+  - UIConstruccion
+  - UIVictoria
+  - Tabla
+  - UIInicio
+  - UIDerrota
+  - UIMover
+  - UIAcciones
+  - Arquitecto
+  - Pala
+  - Parrilla
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Unidades
+  - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Unidades
+  - Paredes
+  - Agua
+  - Terreno
   - 
   - 
   - 

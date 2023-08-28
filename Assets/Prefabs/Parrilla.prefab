@@ -12,9 +12,11 @@ GameObject:
   - component: {fileID: 8332077009660837829}
   - component: {fileID: 2209369372666418216}
   - component: {fileID: 7164939978826929932}
-  m_Layer: 0
+  - component: {fileID: 8321946967342769548}
+  - component: {fileID: 4063165091271410429}
+  m_Layer: 6
   m_Name: Parrilla
-  m_TagString: Untagged
+  m_TagString: Parrilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -97,3 +99,32 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &8321946967342769548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5765734201402704550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce63868aefea45e47977fa10b5b3c858, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distanceThreshold: 5
+  timeThreshold: 5
+  reducedMoveSpeedFactor: 0.5
+  gameManager: {fileID: 0}
+--- !u!114 &4063165091271410429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5765734201402704550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 181ce28bcea18ab45bc6fc4ef93c9dca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UID: 0

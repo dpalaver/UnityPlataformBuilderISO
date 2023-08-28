@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7832574100512611999}
   - component: {fileID: 7832574100512611998}
   - component: {fileID: 7832574100512611993}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AndamioPlano
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -110,7 +110,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9399714db123db9409af021082b3e228, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cycleDuration: 0.5
+  cycleDuration: 1
   minAlpha: 0.5
   maxAlpha: 0.7
   curve:

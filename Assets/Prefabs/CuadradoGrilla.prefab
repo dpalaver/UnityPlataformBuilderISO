@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6743571878253015374}
   - component: {fileID: 6936394916076767009}
   - component: {fileID: 10204899696877510}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cuadrado
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,7 +106,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4869939352714226582}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: CuadradoGrilla
   m_TagString: CuadradoGrilla
   m_Icon: {fileID: 0}

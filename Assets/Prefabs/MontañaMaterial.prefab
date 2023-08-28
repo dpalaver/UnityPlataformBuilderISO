@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 9070603774546594377}
   - component: {fileID: 7785869329652660510}
   - component: {fileID: 1911812568600475388}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "Monta\xF1aMaterial"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
